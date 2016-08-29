@@ -20,5 +20,11 @@
             <footer data-page-footer></footer>
         </div>
         <script src="assets/scripts/scripts.js"></script>
+        <script>
+            (function () {
+                'use strict';
+                window.nonce = '<?php echo wp_create_nonce('ccf_form'); ?>';
+            })();
+        </script>
     </body>
 </html>

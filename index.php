@@ -13,11 +13,11 @@
             your browser</a> to improve your experience.</p>
         <![endif]-->
         <div class="page-wrapper">
-            <header data-page-header></header>
+            <header data-page-header=""></header>
             <div class="ui-view-container">
-                <div data-ui-view data-autoscroll="true"></div>
+                <div data-ui-view="" data-autoscroll="true"></div>
             </div>
-            <footer data-page-footer></footer>
+            <footer data-page-footer=""></footer>
         </div>
         <script src="assets/scripts/scripts.js"></script>
         <script>

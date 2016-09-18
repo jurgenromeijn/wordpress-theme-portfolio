@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <title>Jurgen Romeijn | Full stack e-commerce developer</title>
         <meta name="description" content="">
-        <meta name="viewport content=" width=device-width">
+        <meta name="viewport" content="width=device-width">
         <link rel="stylesheet" href="assets/styles/styles.css">
     </head>
     <body><!--[if lt IE 10]>

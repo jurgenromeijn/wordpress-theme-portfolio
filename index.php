@@ -4,14 +4,11 @@
         <base href="/">
         <meta charset="utf-8">
         <title>Jurgen Romeijn | Full stack e-commerce developer</title>
-        <meta name="description" content="">
-        <meta name="viewport content=" width=device-width">
+        <meta name="description" content="Ik ben een full stack web developer die gespecialiseerd is in complexe e-commerce vraagstukken.">
+        <meta name="viewport" content="width=device-width">
         <link rel="stylesheet" href="assets/styles/styles.css">
     </head>
-    <body><!--[if lt IE 10]>
-        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
-            your browser</a> to improve your experience.</p>
-        <![endif]-->
+    <body>
         <div class="page-wrapper">
             <header data-page-header=""></header>
             <div class="ui-view-container">

@@ -6,6 +6,7 @@
         <title>Jurgen Romeijn | Full stack e-commerce developer</title>
         <meta name="description" content="Ik ben een full stack web developer die gespecialiseerd is in complexe e-commerce vraagstukken.">
         <meta name="viewport" content="width=device-width">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,300" rel="stylesheet">
         <link rel="stylesheet" href="assets/styles/styles.css">
     </head>
     <body>
